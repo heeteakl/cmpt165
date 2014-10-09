@@ -29,13 +29,14 @@ h1 {
   border: thin solid black;
   background: #333399
 }
-p{
+p {
 	border: thin solid white;
 	text-align: left;
 }
-ul{text-align: center}
+
 h2 {
 	font-family: times, sans-serif;
 	text-align: left; 
-	background: #3333FF
+	background: #3333FF;
+	clear:both;
 }
